@@ -1,0 +1,15 @@
+#+SETUPFILE:orgheader.org
+#+TITLE:Økter i Fysikk 1
+
+* Uke 5
+** Atomets historie
+| *Minimum*     | 6.05, 6.07 |
+| *Ytterligere* |      6.101 |
+
+** Kvantehypotesen
+| *Minimum*     | 6.08, 6.09 |
+| *Ytterligere* |      6.106 |
+
+** Bohrs atommodell
+| *Minimum*     | 6.11, 6.13 |
+| *Ytterligere* |      6.109 |
