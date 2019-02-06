@@ -1,6 +1,30 @@
 #+SETUPFILE:orgheader.org
 #+TITLE:Økter i Fysikk 1
 
+* Uke 6
+** Forberedelse til vurdering
+Tirsdagens vurdering er som sagt prøve bestående av en del 1 og en del 2. Under del 1 har dere ingen hjelpemidler tilgjengelig, under del 2 kan dere ha med kalkulator eller PC (skal kun brukes som kalkulator) og /egenproduserte, håndskrevne notater/.
+
+*Del 1 - Flervalgsdel*
+Oppgaver à la:
+Hvilken av påstandene under stemmer om dopplereffekten?
+- Vi observerer høyere frekvens når en strålingskilde er på vei fra oss
+- Vi observerer høyere frekvens når en strålingskilde er på vei mot oss
+- Vi observerer høyere amplitude når en strålingskilde er på vei mot oss
+- Vi observerer høyere amplitude når en strålingskilde er på vei fra oss
+
+*Del 2 - Regnedel*
+Jeg kommer til å legge vekt på at der viser at dere har forstått hva oppgaven ber om. Det vil si at også følgende er på plass:
+- Utregninger med enheter og hensiktsmessig antall gjeldende siffer
+- Figur
+- Korte navn eller andre indikasjoner på hva dere bruker under utregningene (f.eks. «Kvantehypotesen» den første gangen du bruker $E = hf$).
+- Korte, beskrivende svarsetninger.
+
+Lykke til med forberedelsene!
+
+** Emisjon og absorpsjon
+| *Minimum*     | 6.20, 22, 24, 27              |
+| *Ytterligere* | 6.118, 124, 125, B-6.4, B-6.7 |
 * Uke 5
 ** Atomets historie
 | *Minimum*     | 6.05, 6.07 |
