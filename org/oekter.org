@@ -22,6 +22,10 @@ Jeg kommer til å legge vekt på at der viser at dere har forstått hva oppgaven
 
 Lykke til med forberedelsene!
 
+** Oppgaver fra kapittel 5
+| *minimum*     | 5.01, 06, 08, 10, 15, 18 (geogebra), 20, 21, 24, 27 |
+| *ytterligere* | 5.32, 110, 117, 125, B-5.3,                         |
+
 ** Emisjon og absorpsjon
 | *Minimum*     | 6.20, 22, 24, 27              |
 | *Ytterligere* | 6.118, 124, 125, B-6.4, B-6.7 |
