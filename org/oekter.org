@@ -1,6 +1,27 @@
 #+SETUPFILE:orgheader.org
 #+TITLE:Økter i Fysikk 1
 
+* uke 9
+** Kjernefysikk
+- [[https://tabaa004.github.io/fysikk1/kjernefysikk.html][Presentasjon]]
+** Atomkjernen
+*Minimum*
+7.02, 7.04
+
+*Ytterligere*
+7.102
+
+** Krefter i en atomkjerne
+*Minimum*
+7.05, 7.07
+
+*Ytterligere*
+7.108, 7.109, 7.114
+
+** Bevaringslover
+*Bevaringslover*
+7.09, 7.10, 7.11, 7.12, 7.14
+
 * Uke 6
 ** Forberedelse til vurdering
 Tirsdagens vurdering er som sagt prøve bestående av en del 1 og en del 2. Under del 1 har dere ingen hjelpemidler tilgjengelig, under del 2 kan dere ha med kalkulator eller PC (skal kun brukes som kalkulator) og /egenproduserte, håndskrevne notater/.
