@@ -1,6 +1,20 @@
 #+SETUPFILE:orgheader.org
 #+TITLE:Økter i Fysikk 1
 
+* uke 12 :noexport:
+** vurdering
+* uke 11 :noexport:
+* uke 10 
+** Fisjon
+*Minimum*
+7.20, 7.21, 7.22, 7.25, 7.28, 7.29, 7. 30
+
+** Fusjon
+*Minimum*
+7.34, 7.35, 7.36
+
+** Blandede oppgaver
+Jobb med /Blandede oppgaver/ side 370.
 * uke 9
 ** Kjernefysikk
 - [[https://tabaa004.github.io/fysikk1/kjernefysikk.html][Presentasjon]]
