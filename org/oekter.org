@@ -3,7 +3,12 @@
 
 * uke 12 :noexport:
 ** vurdering
-* uke 11 :noexport:
+* uke 11
+** 9A Ladning
+- Les gjennom 9A og svar på «Prøv deg»-oppgavene på side 263. *Svar skriftlig*
+- Gjør oppgave 9.01--02 på side 286.
+- Gjør oppgave 9.101--102 på side 377.
+
 * uke 10 
 ** Fisjon
 *Minimum*
