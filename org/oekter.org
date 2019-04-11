@@ -1,6 +1,33 @@
 #+SETUPFILE:orgheader.org
 #+TITLE:Økter i Fysikk 1
 
+* uke 15
+** Hjemmeprosjekt i påsken
+*Kvelden før:*
+- Sett en halvliter vann i kjøleskapet. Dagen etter vil dette vannet holde ca. 4 °C.
+*Prosjektdagen:*
+1. Finn fram en vannkoker (en kjele er også greit). Noter deg effekten til vannkokeren (typiske effekter er på rundt 2000 W). Dersom du bruker en kokeplate med kjele, må du slå opp kokeplatens effekt i bruksanvisningen eller søke på internett. Dette varierer fra plate til plate, men er gjerne på drøyt 1000 W.
+2. Varmekapasiteten til vann er ca. 4,2 kJ/(kg K), altså tar det 4,2 kJ energi å varme opp én liter vann én grad celsius. Regn ut hvor lang tid det vil ta å varme halvliteren din med vann fra 4 °C til 100 °C.
+3. Hell vannet vannkoker eller kjelen og skru på vannkokeren eller kokeplata (sett til maksimal effekt). Ta tiden det tar før vannet begynner å koke.
+4. Hvordan stemmer punkt 2 overens med punkt 3?
+
+Skriv ned målinger og utregninger, jeg ønsker å se disse etter påske.
+
+** Skriftligvurdering i uke 18
+*Uke 18* (Første hele uke etter påskeferien)
+
+Skriftligvurdering i kapittel 9
+
+Prøven blir på 90 minutter, og kommer til å ha en del 1 og en del 2. Del 1 er en flervalgsdel og noen enkle regneoppgaver («hva er totalmotstanden i kretsen?» osv.)  og gjennomføres uten hjelpemidler. I del 2 har dere tilgang på *kalkulator* samt *én a4-side* med selvskrevne notater.
+
+*Forberedelsesoppgaver*
+- Ugjorte oppgaver fra kapittelet (s. 286--291) Dersom antallet her er «mange», velg deg ut to oppgaver fra hvert delkapittel.
+
+- 9.120, B-9.2, B-9.6, B-9.11, B-9.14
+
+** Muntligvurdering i uke 21
+I uke 21 setter jeg opp tjue-minutters muntligvurderinger med hver av dere. Samtalen er da knyttet til kapittel 10, samt ett selvvalgt område eller kapittel dere vil forbedre. Mangler du en tidligere vurdering, er det dette som blir satt til det selvvalgte området. Vanlig undervisning utgår denne uka.
+
 * uke 12 :noexport:
 ** vurdering
 * uke 11
