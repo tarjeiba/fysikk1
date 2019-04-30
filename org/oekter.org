@@ -1,6 +1,13 @@
 #+SETUPFILE:orgheader.org
 #+TITLE:Økter i Fysikk 1
 
+* uke 18
+** Vurdering
+Prøva med løsningsforslag finner du [[file:vurdering_elektrisitet.org][her]].
+
+** Halvlederteknologi
+Vi ser på dioder og transistorer.
+
 * uke 15
 ** Hjemmeprosjekt i påsken
 *Kvelden før:*
