@@ -1,0 +1,263 @@
+#+SETUPFILE:orgheader.org
+#+TITLE:Vurdering i bølger og atomer
+
+* Del 1
+:PROPERTIES:
+:custom_id: del1
+:END:
+Totalt 15 poeng.
+** Oppgave 1
+Hvilken påstand stemmer?
+- a :: To bølger kan ha samme bølgefart og bølgelgende, men ulik amplitude.
+- b :: To bølger kan ha samme bølgefart og bølgelengde, men ulik frekvens.
+- c :: To bølger med samme bølgefart og frekvens, er alltid i fase.
+- d :: To bølger som er i fase, har samme amplitude.
+*** Løsning
+/Amplitude/ er kun et mål for maksimalt utslag, og henger dermed ikke sammen med bølgefart eller bølgelengde. *a* er riktig svar.
+
+** Oppgave 2
+Hvilken påstand stemmer /ikke/?
+- a :: Når en gjenstand får svinge upåvirket, svinger det med sin /egenfrekvens/.
+- b :: Når en svingning påvirkes i takt med egenfrekvensen, kan /resonans/ oppstå.
+- c :: Massen til en gjenstand påvirker gjenstandens egenfrekvens.
+- d :: Egenfrekvensen til en gjenstand avgjøres av hvor lang tid det tar før gjenstanden er i ro.
+*** Løsning
+Egenfrekvensen til en gjenstand er nettopp det, en frekvens, og bestemmer ikke noe av hvor lang tid det tar før en gjenstand slutter å svinge. *d* er riktig svar.
+
+** Oppgave 3
+Hvilken påstand stemmer?
+- a :: Lyd forplanter seg i /luft/ via langsbølger.
+- b :: Tversbølger transporterer energi /mot/ bølgeretningen.
+- c :: Langsbølger er alltid tregere enn en tversbølge i samme bølgemedie.
+- d :: Langsbølger transporterer energi /mot/ bølgeretningen.
+*** Løsning
+Lyd er kompresjonsbølger i gasser og væsker. Komprimeringer skjer i bølgeretningen, altså er lyd i gass og væske en langsbølge. *a* er riktig svar.
+
+** Oppgave 4
+Hvilken påstand stemmer?
+- a :: Lysfarten er 300 000 km/s, uavhengig av hvilket medie lyset går i.
+- b :: Når lys går fra et objekt, reflekteres i et speil og treffer øyet ditt, har det gått kortest mulige vei som er innom speilet.
+- c :: Refleksjonslodd brukes kun når et speil ligger vannrett.
+- d :: Refleksjonsvinkelen, α, er alltid 90°
+*** Løsning
+At lys går korteste vei mellom et objekt og øyet ditt, er det som gjør at refleksjonsvinkel er lik innfallsvinkel. *b* er riktig svar.
+** Oppgave 5
+Hvilken påstand stemmer for to bølger, $b_1$ og $b_2$?
+- a :: Destruktiv interferens oppstår når bølgebunn fra $b_1$ møter bølgebunn fra $b_2$.
+- b :: Destruktiv interferens oppstår når bølgebunn fra $b_1$ møter bølgetopp fra $b_2$.
+- c :: Konstruktiv interferens oppstår kun om $b_1$ og $b_2$ har samme amplitude.
+- d :: Konstruktiv interferens oppstår når laveste bølgebunn fra $b_1$ møter høyeste bølgetopp fra $b_2$.
+*** Løsning
+Destruktiv interferens er et fenomen hvor bølgetopp og bølgebunn «nuller ut hverandre». *b* er riktig svar.
+** Oppgave 6
+Hvilken påstand stemmer?
+- a :: Lydfarten er 340 m/s i alle medier.
+- b :: Lydfarten i luft er temperaturavhengig.
+- c :: Lyd forplanter seg i /vann/ via tversbølger.
+- d :: Vi øker amplituden til en lydbølge ved å øke frekvensen til lydkilden.
+*** Løsning
+Dess høyere temperatur det er i lufta, jo flere kollisjoner er det mellom molekylene, og dess raskere kan en kompresjonsbølge spre seg. Lydfarten er derfor sterkt temperaturavhengig. *b* er riktig svar.
+
+** Oppgave 7
+Hvilken påstand om Rutherford stemmer?
+- a :: Han oppdaget alfapartiklene.
+- b :: Han fant ut at elektronet var negativt ladet.
+- c :: Han fant ut at atomkjernen utgjorde en liten del av hele atomet.
+- d :: Han fant ut at lysets hastighet er 300 000 km/s.
+*** Løsning
+Rutherford gjennomførte sitt gullfolieeksperiment, og viste med det at atomkjernen kun utgjør en liten del av hele atomet. *b* er riktig svar.
+
+** Oppgave 8
+Hvilken påstand stemmer?
+- a :: Et atom som eksiteres, eksiteres alltid til energinivået over det det var ved.
+- b :: For at et atom skal eksiteres, må atomet tilføres energi.
+- c :: Et atom tilføres energi når det emiterer et foton.
+- d :: I samme øyeblikk et atom absorberer et foton, emiterer det et foton.
+*** Løsning
+«Eksitasjon» betyr nettopp å gå til en høyere energitilstand. Grunnet bevaringsloven for energi må altså atomet da tilføres energi, på en eller annen måte. *b* er riktig svar.
+
+** Oppgave 9
+Hvilken påstand om /fotoner/ stemmer?
+- a :: De har konstant akselerasjon, men en maksfart på 300 000 km/s.
+- b :: De består av to protoner og to nøytroner.
+- c :: Energien til et foton avgjøres av dets frekvens.
+- d :: Refleksjon oppstår når to fotoner kolliderer.
+*** Løsning
+Kvantehyposen sier at energien i et foton er $E = hf$, hvor $f$ er frekvensen til fotonet. *c* er altså riktig svar.
+
+** Oppgave 10
+Bohrs modell for hydrogenatomet kan skrives \[E_n = -\frac{B}{n^2}.\] Hvilken påstand stemmer om denne modellen?
+- a :: Nullnivået er satt til å være den høyste energien hydrogenatomet kan ha, 0. Atomet er da /ionisert/.
+- b :: $B$ er energien til et ionisert hydrogenatom, $-2,18\cdot 10^{-18}\,\textrm{J}$.
+- c :: $n$ er bølgelengen til hydrogenatomet, og kan kun ta heltallige verdier.
+- d :: Grunnivået er satt til $n=0$, hydrogenatomet har da uendelig energi.
+*** Løsning
+I motsetning til i den klassiske mekanikken, hvor vi ofte har satt nullnivået til å være på bakken, har vi i atomfysikken satt nullnivået til å være «uendelig» langt borte fra atomet. Om vi sender et av atomets elektroner dit, er atomet ionisert. *a* er dermed riktig svar.
+
+** Bølger
+De neste tre oppgavene tar utgangspunkt i figuren under.
+
+#+CAPTION:Bølge
+#+ATTR_HTML: :style background:white;padding:20px :border 2px
+[[file:figurer/vurdering_boelger_og_atomer_boelge.png]]
+
+*** Oppgave 11
+Er det rosa punktet på vei opp eller ned?
+- a :: Opp
+- b :: Ned
+- c :: Umulig å si
+- d :: Det er i ro
+**** Løsning
+Det rosa punktet er nedstrøms en bølgetopp. Bølgetoppen beveger seg derfor /bort/ fra punktet, og punktet er på vei /ned/. *b* er riktig svar.
+
+*** Oppgave 12
+Hvilket punkt svinger i fase med det rosa punktet?
+- a :: A
+- b :: B
+- c :: C
+- d :: D
+**** Løsning
+For at to punkter skal svinge i fase, skal det være i samme stadiet av svingningen. Det er det kun to punkter som er, det rosa og D. *d* er derfor riktig svar.
+
+*** Oppgave 13
+Er det en avstand på én bølgelengde mellom noen av punktene?
+- a :: Ja, mellom det rosa punktet og D.
+- b :: Ja, mellom det rosa punktet og A.
+- c :: Ja, mellom A og D.
+- d :: Nei, siden ingen av punktene ligger på likevektslinja.
+**** Løsning
+En bølgelengde er avstanden mellom to tilsvarende svingetilstander. Som i forrige oppgave gjelder dette kun to punkter, det rosa og D. *a* er derfor riktig svar.
+
+** Dobbeltspalten
+De neste to oppgavene tar utgangspunkt i figuren under.
+#+CAPTION:Dobbeltspalteeksperiment
+#+ATTR_HTML: :style background:white;padding:20px;max-width:70% :border 2px
+[[file:figurer/vurdering_boelger_og_atomer_dobbeltspalte.png]]
+
+*** Oppgave 14
+Hva skjer om vi øker avstanden mellom åpningene i dobbeltspalten?
+- a :: $x$ er uendret.
+- b :: $x$ øker.
+- c :: $x$ minker.
+- d :: Det avhenger av $y$.
+**** Løsning
+Formelene for dobbeltspalteforsøket er \[d \sin \theta_n = n \lambda,\] hvor $d$ er avstanden mellom spaltene eller gitterkonstanten, $\theta$ er vinkelen mellom 0. og $n$-te ordens maksimum og $\lamda$ er bølgelengden til laseren.
+
+Vi ser dermed at om vi /øker/ avstanden mellom åpningene ($d$), må $\sin \theta$ minke. I vår figur er $\sin \theta_1 = \frac{x}{y}$. $y$ er avstanden mellom skjermen og laseren, altså konstant. Derfor må $x$ minke for at $n \lambda$ skal holdes konstant. *c* er riktig svar.
+
+*** Oppgave 15
+Hva skjer om vi øker frekvensen i laserlyset?
+- a :: $x$ er uendret.
+- b :: $x$ øker.
+- c :: $x$ minker.
+- d :: Det avhenger av $y$.
+**** Løsning
+Om vi øker frekvensen, minker vi bølgelengden, $\lambda$. Om vi da ser på 1. ordens maksimum ($n = 1$), får vi $d\sin \theta_1 = \lambda$. Siden lambda minker, må $\sin \theta_1$ minke tilsvarende. Igjen, siden $\sin\theta_1 = \frac{x}{y}$, og $y$ er konstant, må altså $x$ minke$. *c* er riktig svar.
+
+* Del 2
+:PROPERTIES:
+:custom_id: del2
+:END:
+Totalt 30 poeng
+** Oppgave 1 (4 poeng)
+Se på videoen under. Gjør overslag for svingningens /periode/ og /frekvens/ i tidsrommet fra 10 til 35 sekunder i klippet.
+
+#+CAPTION: «Tacoma Narrows»-ulykken
+#+BEGIN_EXPORT html
+<div id="muteYouTubeVideoPlayer"></div>
+
+<script async src="https://www.youtube.com/iframe_api"></script>
+<script>
+ function onYouTubeIframeAPIReady() {
+  var player;
+  player = new YT.Player('muteYouTubeVideoPlayer', {
+    videoId: 'nFzu6CNtqec', // YouTube Video ID
+    width: 560,             // Player width (in px)
+    height: 316,            // Player height (in px)
+    playerVars: {
+      autoplay: 0,          // Auto-play the video on load
+      controls: 1,          // Show pause/play buttons in player
+      showinfo: 0,          // Hide the video title
+      modestbranding: 1,    // Hide the Youtube Logo
+      loop: 1,              // Run the video in a loop
+      fs: 0,                // Hide the full screen button
+      cc_load_policy: 0,    // Hide closed captions
+      iv_load_policy: 3,    // Hide the Video Annotations
+      autohide: 0,           // Hide video controls when playing
+      rel: 0,
+    },
+    events: {
+      onReady: function(e) {
+        e.target.mute();
+      }
+    }
+  });
+ }
+</script>
+#+END_EXPORT
+*** Løsning
+I perioden fra 10 til 35 sekunder i klippet, ser vi omtrent åtte svingninger av brua. Vi får da en omtrentlig periode på $(35 - 10)\,\textrm{s} / 8 \approx 3\,\s$ og en frekens på omtrent $8/(35 - 10)\,\textrm{s} = 0,3\,\textrm{Hz}$.
+** Oppgave 2 (6 poeng)
+#+CAPTION:Dobbeltspalteforsøk
+#+ATTR_HTML: :style background:white;padding:20px :border 2px
+[[file:figurer/vurdering_boelger_og_atomer_dobbeltspalte.png]]
+
+Vi ser videre på doobeltspalteforsøket fra oppgave 14 og 15 fra Del 1. Vi setter nå avstanden mellom åpningene i dobbeltspalten til /d/ = 2,0 μm. Vi måler avstanden til veggen /y/ = 3,00 m avstanden mellom 0. og 1. ordens maksimum /x/ = 0,62 m.
+- a :: Bestem bølgelengden til det ensfargede lyset.
+- b :: Forklar hva vi vil se dersom vi bytter ut det ensfargede lytset med hvitt lys (alle farger).
+*** Løsning
+- a :: Vi kan finne bølgelengden til det ensfargede lyset ved å bruke formelen for dobbeltspalteforsøket, \[d\sin\theta_n = n\lambda.\] Vi må først finne vinkelen, $\theta_1$, ved å bruke tangens, $\tan\theta_1 = \frac{0,62\,\textrm{m}}{3,00\,\textrm{m}} = 0,207$, og vi får da vinkelen $\tan ^{-1} 0,207 = 11,7^{\circ}$. Vi setter dette inn i formelen videre og får \[\lambda = 2,0\cdot 10^{-6}\,\textrm{m} \cdot \sin 11,7^{\circ} = 4,06\cdot 10^{-7}\,\textrm{m} = 406\,\textrm{nm}.\]Det ensfargede laserlyset har altså en bølgelengde på 406 nm.
+- b :: Siden lyset vil brytes mer dess lengre bølgelengde det har, vil de lengre bølgelengdene avbøyes mer. Det hvite lyset vil da deles opp i sine ensfargede bestanddeler, og vi vil få lysmaksima som er regnbuemønstrede, med rød ytterst.
+
+** Oppgave 3 (10 poeng)
+- a :: Et av Bohrs postulater fortller om hva som skjer når hydrogenatomet går fra en høyere til en lavere energitilstand. Hva sier det andre postulatet?
+- b :: Figuren under viser energinivåene i hydrogenatomet. Hvor stor er ioniseringsenergien?
+
+#+CAPTION:Energinivåer i hydrogenatomet
+#+ATTR_HTML: :style background:white;padding:20px :border 2px
+[[file:figurer/vurdering_boelger_og_atomer_hydrogentilstander.png]]
+
+- c :: Brukl Bohrs modell for hydrogenatomet til å regne ut de tre laveste energinivåene i hydrogenatomet.
+- d :: Et hydrogenatom befinner seg i energitilstand $n=3$. Hvilke energikvanter kan det sende ut ved direkte overgang fra denne energitilstanden? Hvilke frekvenser svarer det til?
+- e :: Hvilken energiovergang på figurer vil gi stråling med den /minste/ bølgelengden? Hva er bølgelengden i dette tilfellet?
+- f :: Om vi bruker et enkelt spektroskop som «deler opp» synlig lys til å se på /emisjonsspekteret/ til hydrogen, ser vi bare én av seriene (Lyman, Balmer, Paschen). Gjør rede for hvilken av seriene vi vil se.
+
+*** Løsning
+- a :: At det kun er visse energitilstander atomet kan være ved.
+- b :: Ioniseringsenergien er fra energinivå nr. 1, opp til nullnivået. Dette blir $\Delta E = 0 - (-2,18\,\textrm{aJ}) = 2,18\,\textrm{aJ}$. Ioniseringsenergien er altså 2,18 aJ.
+- c :: Bohrs atommodell for hydrogenatomet er $E_n = -\frac{B}{n^2}$, hvor $B = 2,18\cdot 10^{-18}\,\textrm{J}$. Vi skal finne $E_1$, $E_2$ og $E_3$. Vi får  \[E_1 = -\frac{2,18\cdot 10^{-18}\,\textrm{J}}{1^2} = -2,18\,\textrm{aJ},\] \[E_2 = -\frac{2,18\cdot 10^{-18}\,\textrm{J}}{2^2} = -0,545\,\textrm{aJ},\] og \[E_3 = -\frac{2,18\cdot 10^{-18}\,\textrm{J}}{3^2} = -0,242\,\textrm{aJ}.\]
+- d :: Det kan sende ut energi ved enten å falle til energinivå 1 eller 2. Fra 3 til 1 får vi energien \[E_{3-1} = E_3 - E_1 = (-0,242 - (-2,18))\,\textrm{aJ} = 1,94\,\textrm{aJ}.\] Fra 3 til 2 får vi energien \[E_{3-2} = E_3 - E_2 = (-0,242 - (0,545))\,\textrm{aJ} = 0,303\,\textrm{aJ}.\] For å regne ut assossierende frekvenser, bruker vi kvantehypotesen, som sier at $E=hf$, hvor $f$ er frekvensen til fotonet og $h = 6,63\cdot 10^{-34}\,\textrm{Js}$ er Plancks konstant. For våre overganger får vi: \[\textrm{3-1:}\quad f = \frac{E_{3-1}}{h} = \frac{1,94\cdot 10^{-18}}{6,63\cdot 10^{-34}}\,\textrm{Hz} = 2,93\cdot 10^{15}\,\textrm{Hz} = 2930\,\textrm{THz}\] og \[\textrm{3-1:}\quad f = \frac{E_{3-2}}{h} = \frac{0,303\cdot 10^{-18}}{6,63\cdot 10^{-34}}\,\textrm{Hz} = 4,57\cdot 10^{14}\,\textrm{Hz} = 457\,\textrm{THz}.\]
+- e :: Overgangen som vil gi den minste bølgelengden på et emitert foton, altså størst frekvens, vil være den overgang med størst energiovergang. Denne overgangen er størst om vi har et ionisert atom som faller ned til grunnivået ved å tilføres et elektron, og da er energiendringen på $0 - (-2,18\cdot 10^{-18}\,\textrm{J}) = 2,18\,\textrm{aJ}$. Vi har $E = hf$, som videre kan uttrykkes $E = h\frac{c}{\lambda}$ og vi får da \[\lambda = \frac{hc}{E} = \frac{6,63\cdot 10^{-34}\cdot 3,00\cdot 10^{8}}{2,18\cdot 10^{-18}}\,\textrm{m} = 9,12\cdot 10^{-8}\,\textrm{m} = 91,2\,\textrm{nm}.\]
+- f :: Seriene oppstår ved at ekstierte atomer faller ned til et gitt energinivå. Synlig lys har bølgelengder fra omtrent 700 nm til litt knapt 400 nm. Dette svarer til frekvenser på $f = \frac{c}{\lambda}$, som da blir $f = \frac{3,00\cdot 10^{8}\,\textrm{m/s}}{700\cdot 10^{-9}\,\textrm{m}} = 428\,\textrm{THz}$ og $f = \frac{3,00\cdot 10^{8}\,\textrm{m/s}}{400 \cdot 10^{-9}\,\textrm{m}} = 750\,\textrm{THz}$. I oppgave *d* fant vi at energispranget fra 3 til 2 ga et foton med frekvens 438 THz, noe som da er innenfor dette spennet. Altså er det Balmer-serien som gir de synlige fotonene.
+
+** Oppgave 4 (10 poeng)
+Figuren under viser et måleoppsett for å måle istykkelsen i en isbre. Dette måleutstyret fungerer ved at et radarsignal sendes ned gjennom isen, dette reflekterers i berggrunnen under isen («reflektor»), før det plukkes opp av mottakeren. Ved hjelp av tiden signalet bruker fra senderen til mottakeren, kan vi regne ut istykkelsen.
+
+#+CAPTION: «Massebalanse på Kronebreen/Holtedahlfonna, Svalbard» av Anders Baumberger (2004) ([[https://www.duo.uio.no/bitstream/handle/10852/12431/Hovedfag_Anders_Baumberger.pdf][lenke]])
+#+ATTR_HTML: :style background:white;padding:20px :border 2px
+[[file:figurer/vurdering_boelger_og_atomer_isdybde.png]]
+
+Her er $s$ avstanden mellom senderen (T) og mottakeren (R), $v$ er signalfarten, og $d$ er bretykkelsen. $t$ er tiden signalet bruker fra senderen til mottakeren.
+
+- a :: Vis at isdybden kan uttrykkes \[d = \sqrt{\frac{(vt)^2}{4} - \frac{s^2}{4}}.\]
+- b :: Under et forsøk blei gangtiden, $t$ målt til å være 55.34 ns. Bruk at radarsignalets fart er lysfarten i vakuum, 2,998⋅10^8 m/s, og regn ut isdybden under et forsøk hvor antenneseparasjonen var på 20 cm.
+
+Under virkelige forsøk, brukes ikke lysfarten i vakuum som signalfart, men man tar høyde for at fotonene bremses ned av mediet de sprer seg i. Materialegenskapen som påvirker dette, kalles materialets dielektriske konstant ($\varepsilon$). Vi får da et uttrykk for signalfarten som kan skrives \[v = \frac{c}{\sqrt{\varepsilon}}.\]
+
+- c :: Ifølge sammenhengen over, hva slags enhet har $\varepsilon$?
+- d :: Ut fra det du veit om lysfarten i vakuum, kan du si noe om størrelsen til $\varepsilon$?
+
+Det viser seg at $\varepsilon$ korrelerer godt med et medies tetthet ($\rho$) alene. En empirisk (funnet via forsøk, ikke utledet fra naturlover) sammenheng er funnet til å være \[\varepsilon = (1 + 0,845\rho)^2,\] hvor $\rho$ er materialets tetthet relativ til ferskvanns tetthet.
+
+Ren breis har en relativ tetthet på $\rho = 0,9$.
+
+- e :: Bruk informasjonen over til å regne ut en ny signalfart, $v$, for forsøket. Oppgi svaret både i enhet meter per sekund (m/s) og enhet meter per mikrosekund (m/μs).
+- f :: Hvordan påvirker dette dybdeanslaget ditt fra oppgave *b*?
+
+*** Løsning
+- a :: Vi kan se på figuren som to rettvinklede trekanter, satt «rygg-mot-rygg», hvor hver har kateter $d$ og $\frac{s}{2}$, med hypotenus halvparten av $v\cdot t$, altså $\frac{vt}{2}$, siden $t$ er tiden signalet bruker fra mottakeren, ned i reflektoren og opp igjen. Ved å bruke Pytagoras for en av trekantene får vi da \[\left(\frac{vt}{2}\right)^2 = d^2 + \left( \frac{s}{2} \right)^2,\] som vi da kan uttrykke \[d = \sqrt{\frac{(vt)^2}{4} - \frac{s^2}{4}}.\]
+- b :: Vi setter inn verdiene vi har fått oppgitt, og får \[d = \sqrt{\frac{(2,998\cdot 10^8 \cdot 55,34\cdot 10^{-9})^2}{4} - \frac{(20\cdot 10^{-2})^2}{4}}\,\textrm{m} = 8,3\,\textrm{m}.\]
+- c :: To sider av en likning må ha samme enhet. SI-enheten til $v$ og $c$ er begge meter per sekund (m/s), altså har ikke $\varepsilon$ noen enhet, eller enheten 1.
+- d :: Vi veit at ikke noe går fortere enn lyset i vakuum, altså er $\varepsilon$ nødt til å ha en verdi større eller lik én ($\varepsilon \geq 1$) for ikke å bryte dette.
+- e :: Vi finner først verdien for $\varepsilon$ for breis, ved å bruke $\rho = 0,9$, og vi får $\varepsilon = (1 + 0,845\cdot 0,9)^2=3,10$. Satt inn i uttrykket for signalfarten, får vi da ny signalfart som \[v = \frac{c}{\sqrt{\varepsilon}} = \frac{2,998\cdot 10^8}{\sqrt{3,10}}\,\textrm{m/s} = 1,70\cdot 10^{8}\,\textrm{m/s}.\]
+- f :: Samme utregning som i oppgave *b*, men med ny fart. Vi får \[d = \sqrt{\frac{(1,70\cdot 10^8 \cdot 55,34\cdot 10^{-9})^2}{4} - \frac{(20\cdot 10^{-2})^2}{4}}\,\textrm{m} = 4,7\,\textrm{m}.\] Vi endrer altså estimatet vårt fra 8,3 m til 4,7 m for istykkelsen.

@@ -1,0 +1,72 @@
+#+SETUPFILE:orgheader.org
+#+TITLE:Vurdering i elektrisitet
+
+* Oppgave 1
+Et batteri med en spenning på 12,0 V er koblet i serie med en motstand med resistansen 2,0 Ω og en parallellkobling av to motstander, begge med resistans 3,0 Ω.
+
+** a
+Lag koblingsskjema
+
+*** Løsning :noexport:
+[[fig:vurdering_elektrisitet_koblingsskjema_1a.png]]
+** b
+Finn resultantresistansen i kretsen.
+
+*** Løsning :noexport:
+De to parallelle motstandene har sammen en motstand på \[R_P = \left(3,0^{-1}+3,0^{-1}\right)^{-1}\,\textrm{Ω} = 1,5\,\textrm{Ω}.\]Lagt sammen med seriemotstanden på 2,0 Ω får vi da en resultantmotstand på \[R=2,0\,\textrm{Ω}+1,5\,\textrm{Ω}=3,5\,\textrm{Ω}.\]
+** c
+Finn strømmen gjennom batteriet.
+
+*** Løsning :noexport:
+Ved å bruke Ohms lov får vi at strømmen gjennom batteriet er på \[I=\frac{U}{R}=\frac{12,0\,\textrm{V}}{3,5\,\textrm{Ω}}=3,4\,\textrm{A}.\]
+* Oppgave 2
+
+
+Tre like motstander er koblet i parallell. Se figuren under. Strømmen gjennom amperemeter A3 er 0,60 A. Bestem strømmen gjennom amperemetrene 1, 2, 4, og 5.
+
+[[fig:vurdering_elektrisitet_koblingsskjema.png]]
+
+*** Løsning :noexport:
+Siden alle de tre motstandene er like store, vil det gå en like stor strøm gjennom dem. A3 viser strømmen gjennom én motstand, det samme gjør A4, altså er A4 = A3 = 0,60 A. Videre kan vi bruke Kirchhoffs første lov og få at strømmen gjennom A1 skal deles over tre motstander, altså er $I_1 = 3\cdot I_3 = 1,8\,\textrm{A}$, dersom $I_n$ angir strømmen gjennom amperemeter A_n. Videre er $I_2 = I_3 + I_4 = 1,2\,\textrm{A}$. Vi har altså
+
+\begin{align*}
+I_1 &= I_5 = 1,8\,\textrm{A} \\
+I_2 &= 1,2\,\textrm{A} \\
+I_3 &= I_4 = 0,6\,\textrm{A}
+\end{align*}
+* Oppgave 3
+** a
+En lyspære står på 60 W i én time. Hvor stor ladning har passert et tverrsnitt av glødetråden i løpet av denne tiden? Anta at lyspæren er koblet til nettspenningen som er 230 V.
+
+*** Løsning :noexport:
+Vi har $I=Q/t$, hvor $Q$ er antall ladninger som passerer et tverrsnitt over tida $t$, ved å bruke $P=UI$ kan vi da finne ladningen $Q$ som 
+\begin{align*}
+P &= UI \\
+I &= \frac{P}{U} \\
+\frac{Q}{t} &= \frac{P}{U} \\
+Q &= \frac{P}{U}\cdot t = \frac{60\,\textrm{W}}{230\,\textrm{V}}\cdot 3600\,\textrm{s} \\
+Q &= 940\,\textrm{C}
+\end{align*}
+** b
+Et varmekabelanlegg består av to like motstandstråder. Ved å koble én eller begge trådene til nettet på forskjellige måter kan vi oppnå tre ulike verdier for avgitt effekt. Tegn koblingsskjema for hvert av de tre tilfellene.
+
+*** Løsning :noexport:
+En hvor de er koblet i serie, en hvor kun en motstandstråd er tilkoblet, og en hvor de er koblet i parallell.
+** c
+Varmekabelanlegget har en bryter med trinnene 0, 1, 2 og 3, der trinnene fra 1 til 3 representerer de tre koblingene i oppgave b. På trinn 1 (laveste effekt) avgir anlegget effekten 330 W. Nettspenningen er 230 V. Finn strømmen.
+
+*** Løsning :noexport:
+Vi har at $P=UI$ og vi kan da finne strømmen som $$I = \frac{P}{U}=\frac{330\,\textrm{W}}{230\,\textrm{V}}=1,4\,\textrm{A}.$$
+** d
+Hvilken effekt avgir anlegget når bryteren står på trinn 3?
+*** Løsning :noexport:
+Om man skal koble sammen opptil to like motstander med en gitt spenning over begge og få lavest mulig effekttap (varme fra varmeanlegget), må disse to motstandene kobles i serie, siden totalmotstanden da er størst.
+
+Om vi setter motstanden i én tråd til å være $R$, kan vi med svaret fra oppgave c finne denne via Ohms lov $U=2RI$ ($2R$ siden motstandene er koblet i serie). Vi får da \[R=\frac{U}{2I}=\frac{230\,\textrm{V}}{2\cdot1,4\,\textrm{A}}=80\,\textrm{Ω}.\]
+
+Totalmotstanden når kablene er koblet i parallell er da \[R_\textrm{tot}=\left(2\cdot 80^{-1}\right)^{-1}\,\textrm{Ω}=40\,\textrm{Ω}.\] Vi kan da finne effekten til anlegget som
+\begin{align*}
+P &= UI \\
+P &= \frac{U^2}{R_\textrm{tot}} \\
+P &= \frac{(230\,\textrm{V})^2}{40\,\textrm{Ω}} = 1300\,\textrm{W}.
+\end{align*}
