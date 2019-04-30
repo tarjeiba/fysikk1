@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="no" xml:lang="no">
 <head>
-<!-- 2019-04-30 Tue 09:19 -->
+<!-- 2019-04-30 Tue 13:32 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Vurdering i elektrisitet</title>
@@ -131,6 +131,28 @@ for the JavaScript code in this tag.
  }
 /*]]>*///-->
 </script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
 <body>
 <div id="content">
@@ -154,28 +176,55 @@ Et batteri med en spenning på 12,0 V er koblet i serie med en motstand med res
 </p>
 </div>
 
-<div id="outline-container-orgc785166" class="outline-3">
-<h3 id="orgc785166">a</h3>
-<div class="outline-text-3" id="text-orgc785166">
+<div id="outline-container-org35bae4f" class="outline-3">
+<h3 id="org35bae4f">a</h3>
+<div class="outline-text-3" id="text-org35bae4f">
 <p>
 Lag koblingsskjema
 </p>
 </div>
+
+<div id="outline-container-org325384f" class="outline-4">
+<h4 id="org325384f">Løsning</h4>
+<div class="outline-text-4" id="text-org325384f">
+<p>
+<img src="figurer/vurdering_elektrisitet_koblingsskjema_1a.png" alt="vurdering_elektrisitet_koblingsskjema_1a.png"/>
+</p>
 </div>
-<div id="outline-container-orgb332733" class="outline-3">
-<h3 id="orgb332733">b</h3>
-<div class="outline-text-3" id="text-orgb332733">
+</div>
+</div>
+<div id="outline-container-org90782a7" class="outline-3">
+<h3 id="org90782a7">b</h3>
+<div class="outline-text-3" id="text-org90782a7">
 <p>
 Finn resultantresistansen i kretsen.
 </p>
 </div>
+
+<div id="outline-container-org425530c" class="outline-4">
+<h4 id="org425530c">Løsning</h4>
+<div class="outline-text-4" id="text-org425530c">
+<p>
+De to parallelle motstandene har sammen en motstand på \[R_P = \left(3,0^{-1}+3,0^{-1}\right)^{-1}\,\textrm{Ω} = 1,5\,\textrm{Ω}.\]Lagt sammen med seriemotstanden på 2,0 Ω får vi da en resultantmotstand på \[R=2,0\,\textrm{Ω}+1,5\,\textrm{Ω}=3,5\,\textrm{Ω}.\]
+</p>
 </div>
-<div id="outline-container-orgda53851" class="outline-3">
-<h3 id="orgda53851">c</h3>
-<div class="outline-text-3" id="text-orgda53851">
+</div>
+</div>
+<div id="outline-container-orge1785f7" class="outline-3">
+<h3 id="orge1785f7">c</h3>
+<div class="outline-text-3" id="text-orge1785f7">
 <p>
 Finn strømmen gjennom batteriet.
 </p>
+</div>
+
+<div id="outline-container-org6ddeabe" class="outline-4">
+<h4 id="org6ddeabe">Løsning</h4>
+<div class="outline-text-4" id="text-org6ddeabe">
+<p>
+Ved å bruke Ohms lov får vi at strømmen gjennom batteriet er på \[I=\frac{U}{R}=\frac{12,0\,\textrm{V}}{3,5\,\textrm{Ω}}=3,4\,\textrm{A}.\]
+</p>
+</div>
 </div>
 </div>
 </div>
@@ -190,33 +239,82 @@ Tre like motstander er koblet i parallell. Se figuren under. Strømmen gjennom a
 <img src="figurer/vurdering_elektrisitet_koblingsskjema.png" alt="vurdering_elektrisitet_koblingsskjema.png"/>
 </p>
 </div>
+
+<div id="outline-container-org2aa62a8" class="outline-4">
+<h4 id="org2aa62a8">Løsning</h4>
+<div class="outline-text-4" id="text-org2aa62a8">
+<p>
+Siden alle de tre motstandene er like store, vil det gå en like stor strøm gjennom dem. A3 viser strømmen gjennom én motstand, det samme gjør A4, altså er A4 = A3 = 0,60 A. Videre kan vi bruke Kirchhoffs første lov og få at strømmen gjennom A1 skal deles over tre motstander, altså er \(I_1 = 3\cdot I_3 = 1,8\,\textrm{A}\), dersom \(I_n\) angir strømmen gjennom amperemeter A<sub>n</sub>. Videre er \(I_2 = I_3 + I_4 = 1,2\,\textrm{A}\). Vi har altså
+</p>
+
+\begin{align*}
+I_1 &= I_5 = 1,8\,\textrm{A} \\
+I_2 &= 1,2\,\textrm{A} \\
+I_3 &= I_4 = 0,6\,\textrm{A}
+\end{align*}
+</div>
+</div>
 </div>
 <div id="outline-container-orgdf64da0" class="outline-2">
 <h2 id="orgdf64da0">Oppgave 3</h2>
 <div class="outline-text-2" id="text-orgdf64da0">
 </div>
-<div id="outline-container-org9cc38b3" class="outline-3">
-<h3 id="org9cc38b3">a</h3>
-<div class="outline-text-3" id="text-org9cc38b3">
+<div id="outline-container-orgc3291e4" class="outline-3">
+<h3 id="orgc3291e4">a</h3>
+<div class="outline-text-3" id="text-orgc3291e4">
 <p>
 En lyspære står på 60 W i én time. Hvor stor ladning har passert et tverrsnitt av glødetråden i løpet av denne tiden? Anta at lyspæren er koblet til nettspenningen som er 230 V.
 </p>
 </div>
+
+<div id="outline-container-org19f7cfe" class="outline-4">
+<h4 id="org19f7cfe">Løsning</h4>
+<div class="outline-text-4" id="text-org19f7cfe">
+<p>
+Vi har \(I=Q/t\), hvor \(Q\) er antall ladninger som passerer et tverrsnitt over tida \(t\), ved å bruke \(P=UI\) kan vi da finne ladningen \(Q\) som 
+</p>
+\begin{align*}
+P &= UI \\
+I &= \frac{P}{U} \\
+\frac{Q}{t} &= \frac{P}{U} \\
+Q &= \frac{P}{U}\cdot t = \frac{60\,\textrm{W}}{230\,\textrm{V}}\cdot 3600\,\textrm{s} \\
+Q &= 940\,\textrm{C}
+\end{align*}
 </div>
-<div id="outline-container-org27eaa44" class="outline-3">
-<h3 id="org27eaa44">b</h3>
-<div class="outline-text-3" id="text-org27eaa44">
+</div>
+</div>
+<div id="outline-container-org84e4956" class="outline-3">
+<h3 id="org84e4956">b</h3>
+<div class="outline-text-3" id="text-org84e4956">
 <p>
 Et varmekabelanlegg består av to like motstandstråder. Ved å koble én eller begge trådene til nettet på forskjellige måter kan vi oppnå tre ulike verdier for avgitt effekt. Tegn koblingsskjema for hvert av de tre tilfellene.
 </p>
 </div>
+
+<div id="outline-container-org203cc5f" class="outline-4">
+<h4 id="org203cc5f">Løsning</h4>
+<div class="outline-text-4" id="text-org203cc5f">
+<p>
+En hvor de er koblet i serie, en hvor kun en motstandstråd er tilkoblet, og en hvor de er koblet i parallell.
+</p>
 </div>
-<div id="outline-container-org3ecfec6" class="outline-3">
-<h3 id="org3ecfec6">c</h3>
-<div class="outline-text-3" id="text-org3ecfec6">
+</div>
+</div>
+<div id="outline-container-org73c7b74" class="outline-3">
+<h3 id="org73c7b74">c</h3>
+<div class="outline-text-3" id="text-org73c7b74">
 <p>
 Varmekabelanlegget har en bryter med trinnene 0, 1, 2 og 3, der trinnene fra 1 til 3 representerer de tre koblingene i oppgave b. På trinn 1 (laveste effekt) avgir anlegget effekten 330 W. Nettspenningen er 230 V. Finn strømmen.
 </p>
+</div>
+
+<div id="outline-container-orgdeabb52" class="outline-4">
+<h4 id="orgdeabb52">Løsning</h4>
+<div class="outline-text-4" id="text-orgdeabb52">
+<p>
+Vi har at \(P=UI\) og vi kan da finne strømmen som \[I = \frac{P}{U}=\frac{330\,\textrm{W}}{230\,\textrm{V}}=1,4\,\textrm{A}.\]
+</p>
+</div>
 </div>
 </div>
 <div id="outline-container-org61ad771" class="outline-3">
@@ -225,6 +323,27 @@ Varmekabelanlegget har en bryter med trinnene 0, 1, 2 og 3, der trinnene fra 1 t
 <p>
 Hvilken effekt avgir anlegget når bryteren står på trinn 3?
 </p>
+</div>
+<div id="outline-container-org71549b5" class="outline-4">
+<h4 id="org71549b5">Løsning</h4>
+<div class="outline-text-4" id="text-org71549b5">
+<p>
+Om man skal koble sammen opptil to like motstander med en gitt spenning over begge og få lavest mulig effekttap (varme fra varmeanlegget), må disse to motstandene kobles i serie, siden totalmotstanden da er størst.
+</p>
+
+<p>
+Om vi setter motstanden i én tråd til å være \(R\), kan vi med svaret fra oppgave c finne denne via Ohms lov \(U=2RI\) (\(2R\) siden motstandene er koblet i serie). Vi får da \[R=\frac{U}{2I}=\frac{230\,\textrm{V}}{2\cdot1,4\,\textrm{A}}=80\,\textrm{Ω}.\]
+</p>
+
+<p>
+Totalmotstanden når kablene er koblet i parallell er da \[R_\textrm{tot}=\left(2\cdot 80^{-1}\right)^{-1}\,\textrm{Ω}=40\,\textrm{Ω}.\] Vi kan da finne effekten til anlegget som
+</p>
+\begin{align*}
+P &= UI \\
+P &= \frac{U^2}{R_\textrm{tot}} \\
+P &= \frac{(230\,\textrm{V})^2}{40\,\textrm{Ω}} = 1300\,\textrm{W}.
+\end{align*}
+</div>
 </div>
 </div>
 </div>
